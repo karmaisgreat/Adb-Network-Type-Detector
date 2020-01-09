@@ -1,0 +1,3 @@
+# adb-network-type-detector
+
+Preferred Network Type Detector build for adb in python...
